@@ -1,0 +1,19 @@
+
+
+.home-content {
+  padding: 100px 15%;
+}
+
+.home-banner {
+  height: 300px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.home-banner-1 {
+  background-image: url("https://i.pinimg.com/originals/e0/c4/74/e0c4745ee07489804c3ac7bafec89d45.jpg");
+}
+
+.home-banner-2 {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/002/099/711/non_2x/mountain-beautiful-landscape-background-design-illustration-free-vector.jpg");
+}
