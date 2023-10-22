@@ -6,7 +6,7 @@ const Parralax = () => {
       <div className="home-banner home-banner-1"></div>
 
       <div className="home-content flex flex-col justify-center">
-        <p>
+        {/*  <p>
           I began my journey at Halmstad universtity where i studied information
           systems. I chose this because i wanted a broad education to learn many
           things within the IT domain. Eventually i found out that i really
@@ -35,7 +35,21 @@ const Parralax = () => {
           Forefront Consulting. After 1.5 years I am still at Forefront and im
           thriving and learning new technologies, i get to experiment with
           different tech stacks and discuss exciting subjects with my
-          colleagues.
+          colleagues. */}
+        <p>
+          I have worked as a fullstack developer for three years where I have
+          worked with languages such as Java, C#, React and Angular as well as
+          Microsoft Azure.
+          <br />
+          <br />
+          If you are reading this then you are really lucky! Maybe you are in
+          need of a website? or a system to handle something related to your
+          business? Maybe you just want help to learn new how to code?
+          <br />
+          <br />
+          <span className="font-bold">You have come to the right place</span>
+          <br />
+          Alright, now we have established what you want
           <br />
           <br />
           <span className="font-bold">So what do i want?</span>
@@ -53,8 +67,11 @@ const Parralax = () => {
           is why I want to offer my capabilities and help you or your business.
           <br />
           <br />
-          Feel free to contact me regardless of what it is and we can take it
-          from there!
+          Feel free to contact me at{' '}
+          <span className="font-bold">richard.gronroos94@hotmail.com</span>{' '}
+          regardless of what it is and we can take it from there!
+          <br />
+          <br />
         </p>
       </div>
     </>
